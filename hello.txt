@@ -1,7 +1,3 @@
-hello wmy 
+hello world
 hahaha
-333
-hot-fix
 master
-hot-fix test
-hot-fix
